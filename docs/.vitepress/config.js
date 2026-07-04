@@ -10,10 +10,10 @@ export default {
         siteTitle: "MLG Rainbow",
         sidebar: [
           { text: '概要（トップ）', link: '/' },
-          { text: '導入方法 [WIP]' },
-          { text: 'Lite版について [WIP]' },
-          { text: '通常版について [WIP]' },
-          { text: '権利表記等 [WIP]' },
+          { text: '[WIP] 導入方法' },
+          { text: '[WIP] Lite版について' },
+          { text: '[WIP] 通常版について' },
+          { text: '[WIP] 権利表記等' },
           {
             text: '',
             items: [{text: 'ver1.0.0'}]
