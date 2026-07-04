@@ -47,6 +47,7 @@ title: Lite版について
 
 * **Enable Gradient**
   * オブジェクトのローカル座標を基準としたグラデーション処理を有効化します。
+  * 有効時は、Negative Direction Color → Emission Color → Positive Direction Color の順で、負方向から正方向へ連続的に色が補間されます。
 
 * **Gradient Origin**
   * グラデーションの基準となる位置を指定します。
