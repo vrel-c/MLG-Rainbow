@@ -69,5 +69,5 @@ title: Lite版について
 
 ::: warning 注意：Unity標準設定について
 マテリアル下部に表示される **Render Queue などのUnity標準設定（Advanced Options）は、基本的には変更しないでください。**<br/>
-本シェーダー（Lite版）はRender Queue「Geometry」を前提とした描画構成になっているため、値を変更すると描画順やブレンド挙動が崩れ、意図した表示にならなくなる場合があります。ただし、環境に合わせて `Enable GPU Instancing` を有効化するなどの調整を行う場合については問題ありません。
+本シェーダー（Lite版）はRender Queue = Geometryを前提とした描画構成になっているため、値を変更すると描画順やブレンド挙動が崩れ、意図した表示にならなくなる場合があります。ただし、環境に合わせて `Enable GPU Instancing` を有効化するなどの調整を行う場合については問題ありません。
 :::
