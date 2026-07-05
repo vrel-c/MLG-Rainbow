@@ -32,7 +32,7 @@ Assets/
 4. リストから **VRElectroCenter > MLG_Rainbow_Lite** を選択します。
 
 ### 2. マテリアルの設定
-1. 必要に応じて **Base Map** や **Emission Color** などを設定します。
+1. 必要に応じて **Base Color** や **Emission Color** などを設定します。
 2. 詳細な設定内容については、次の「マテリアルの設定項目」を参照してください。
 
 ### 3. オブジェクトへの適用
