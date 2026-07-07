@@ -12,8 +12,8 @@ title: 権利表記・制作者情報
 利用条件・禁止事項等については、以下の利用規約をご確認ください。
 
 * **Lite版**
-* [利用規約（日本語）](https://drive.google.com/file/d/17Ts0ODhgZIPLLGLgM1wNwko6aEzyOUin/view)
-* [利用規約（英語）](https://drive.google.com/file/d/1a95rsK9wjD5IT861E0CxXy7mMCzd8Nli/view)
+  * [利用規約（日本語）](https://drive.google.com/file/d/17Ts0ODhgZIPLLGLgM1wNwko6aEzyOUin/view)
+  * [利用規約（英語）](https://drive.google.com/file/d/1a95rsK9wjD5IT861E0CxXy7mMCzd8Nli/view)
 
 ## 制作者情報
 
