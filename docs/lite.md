@@ -53,6 +53,7 @@ Assets/
   * Base Mapと乗算され、最終的な表示色になります。
 * **Base Map (Non-Emission Part)**
   * ベースとなるテクスチャを設定します。
+  * 画像のタイリング（Tiling）およびオフセット（Offset）の調整が可能です。
 
 ### Emission Settings（発光設定）
 * **Emission Color**
@@ -61,6 +62,7 @@ Assets/
 
 * **Emission Mask**
   * エミッションを適用する領域を制御するマスクテクスチャです。
+  * 画像のタイリング（Tiling）およびオフセット（Offset）の調整が可能です。
   * 白に近いほど強く発光し、黒に近いほど発光しません。
 
 * **Invert Mask**
@@ -82,7 +84,7 @@ Assets/
 * **Enable Gradient**
   * オブジェクトのローカル座標を基準としたグラデーション処理を有効化します。
   * 有効時は、Negative Direction Color → Emission Color → Positive Direction Color の順で、負方向から正方向へ連続的に色が補間されます。<br/>
-    <small>※ 本パラメータ（Toggle）は内部的にシェーダーバリアントを切り替えるため、Unityのアニメーション（Animation）から動的にON/OFFを切り替えることは仕様上できません。</small>
+    <small>※ 本パラメータ（Toggle）は内部的にシェーダーバリアントを切り替えるため、Unityのアニメーション（Animation）から動的にON/OFFを切り替えることはできません。</small>
 
 * **Gradient Origin (Object Space)**
   * グラデーションの基準となる位置を指定します。
