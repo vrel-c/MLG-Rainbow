@@ -48,11 +48,11 @@ Assets/
 
 ### Basic Settings（基本設定）
 
-* **Base Color (Non-Emission Part)** 
+* **Base Color** 
   * 非発光部分の基礎色を指定します。
   * Base Mapと乗算され、最終的な表示色になります。
-* **Base Map (Non-Emission Part)**
-  * ベースとなるテクスチャを設定します。
+* **Base Map**
+  * 非発光部分のテクスチャを設定します。
   * 画像のタイリング（Tiling）およびオフセット（Offset）の調整が可能です。
 
 ### Emission Settings（発光設定）
@@ -86,7 +86,7 @@ Assets/
   * 有効時は、Negative Direction Color → Emission Color → Positive Direction Color の順で、負方向から正方向へ連続的に色が補間されます。<br/>
     <small>※ 本パラメータ（Toggle）は内部的にシェーダーバリアントを切り替えるため、Unityのアニメーション（Animation）から動的にON/OFFを切り替えることはできません。</small>
 
-* **Gradient Origin (Object Space)**
+* **Gradient Origin**
   * グラデーションの基準となる位置を指定します。
   * 未設定の場合は、メッシュのローカル原点を基準として色の変化が計算されます。
 
