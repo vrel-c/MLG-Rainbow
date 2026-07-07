@@ -2,6 +2,7 @@ export default {
   title: "MLG Rainbow",
   base: '/MLG-Rainbow/',
   description: "Unity向けカスタムシェーダー「MLG Rainbow」のオンラインマニュアルです。",
+  head: [ ['meta', { name: 'robots', content: 'noindex, nofollow' }] ],
   locales: {
     root: {
       label: '日本語',
