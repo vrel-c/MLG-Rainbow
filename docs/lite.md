@@ -81,7 +81,8 @@ Assets/
 
 * **Enable Gradient**
   * オブジェクトのローカル座標を基準としたグラデーション処理を有効化します。
-  * 有効時は、Negative Direction Color → Emission Color → Positive Direction Color の順で、負方向から正方向へ連続的に色が補間されます。
+  * 有効時は、Negative Direction Color → Emission Color → Positive Direction Color の順で、負方向から正方向へ連続的に色が補間されます。<br/>
+    <small>※ 本パラメータ（Toggle）は内部的にシェーダーバリアントを切り替えるため、Unityのアニメーション（Animation）から動的にON/OFFを切り替えることは仕様上できません。</small>
 
 * **Gradient Origin (Object Space)**
   * グラデーションの基準となる位置を指定します。
