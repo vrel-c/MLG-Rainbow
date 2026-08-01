@@ -13,7 +13,7 @@ export default {
           { text: '概要（トップ）', link: '/' },
           { text: '導入方法', link: '/import' },
           { text: 'Lite版について', link: '/lite' },
-          { text: '通常版について [WIP]' },
+          { text: '通常版について', link: '/standard' },
           { text: '権利表記等', link: '/license' },
           {
             text: '',
