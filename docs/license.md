@@ -14,6 +14,10 @@ title: 権利表記・制作者情報
 * **Lite版**
   * [利用規約（日本語）](https://drive.google.com/file/d/17Ts0ODhgZIPLLGLgM1wNwko6aEzyOUin/view)
   * [利用規約（英語）](https://drive.google.com/file/d/1a95rsK9wjD5IT861E0CxXy7mMCzd8Nli/view)
+ 
+* **通常版**
+  * [利用規約（日本語）](https://drive.google.com/file/d/1s5R4SGluKUXtAK7p1yy8jYu71vrdtQ2c/view)
+  * [利用規約（英語）](https://drive.google.com/file/d/1_iPbBVrUWb-ljLvLt2CPVBHcQlW2M04N/view)
 
 ## 制作者情報
 
